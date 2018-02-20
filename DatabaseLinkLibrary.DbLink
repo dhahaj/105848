@@ -1,18 +1,18 @@
 [OutputDatabaseLinkFile]
 Version=1.1
 [DatabaseLinks]
-ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\dmh\Documents\Altium\Projects\105848_revD3\Libraries\MySVNDatabaseLib_2.MDB;Persist Security Info=False
+ConnectionString=Provider=MICROSOFT.ACE.OLEDB.12.0;Data Source=C:\Users\Public\Documents\Altium\AD18\105848\MySVNDatabaseLib_2.MDB;Persist Security Info=False
 AddMode=3
 RemoveMode=1
 UpdateMode=2
-ViewMode=0
+ViewMode=1
 LeftQuote=[
 RightQuote=]
 QuoteTableNames=1
 UseTableSchemaName=0
 DefaultColumnType=VARCHAR(255)
 LibraryDatabaseType=Microsoft Access
-LibraryDatabasePath=C:\Users\dmh\Documents\Altium\Projects\105848_revD3\Libraries\MySVNDatabaseLib_2.MDB
+LibraryDatabasePath=C:\Users\Public\Documents\Altium\AD18\105848\MySVNDatabaseLib_2.MDB
 DatabasePathRelative=0
 TopPanelCollapsed=0
 LastFocusedTable=105848_revD3_SchLib
@@ -31,24 +31,36 @@ TableName=AltiumIntegratedLibrary_IntLib
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=236|Library Ref0=236|Comment0=248|Component Kind0=129|Component Type0=131|Description0=442|Designator0=236|Library Reference0=236|Pin Count0=86|Value0=60|Footprint Ref0=218|Footprint0=218|ComponentField70=146|OriginalName0=109|Simulation0=89|ComponentLink1Description0=200|ComponentLink1URL0=1171|MFR P/N0=104|Footprint Ref 20=174|Footprint Ref 30=117|MFR0=198|LatestRevisionDate0=141|LatestRevisionNote0=191|Publisher0=99|P/N0=64|Component1LinkDescription0=200|Component1LinkURL0=425|MFR PART0=89|PACKAGE0=85|DATASHEET0=359|PackageReference0=134|Published0=84|BUS_Name0=92
 [Table3]
 SchemaName=
 TableName=AltiumIntegratedLibrary_IntLib2
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=236|Library Ref0=236|Footprint Ref0=218|Comment0=248|Component Kind0=129|Component Type0=131|Description0=442|Designator0=236|Footprint0=218|Library Reference0=236|Pin Count0=86|Value0=60|ComponentField70=146|OriginalName0=109|Simulation0=89|ComponentLink1Description0=200|ComponentLink1URL0=1171|MFR P/N0=104|Footprint Ref 20=174|Footprint Ref 30=117|MFR0=198|LatestRevisionDate0=141|LatestRevisionNote0=191|Publisher0=99|P/N0=64|Component1LinkDescription0=200|Component1LinkURL0=425|MFR PART0=89|PACKAGE0=85|DATASHEET0=359|PackageReference0=134|Published0=84|BUS_Name0=92
 [Table4]
 SchemaName=
 TableName=Miscellaneous Devices_IntLib
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=118|Library Ref0=118|Footprint Ref0=138|Component Kind0=129|Component Type0=131|ComponentLink1Description0=200|ComponentLink1URL0=352|ComponentLink2Description0=200|ComponentLink2URL0=591|DatasheetVersion0=133|Description0=648|Designator0=114|Footprint0=90|LatestRevisionDate0=141|LatestRevisionNote0=269|Library Reference0=130|PackageDescription0=551|PackageReference0=134|PackageVersion0=121|Pin Count0=86|Published0=95|Publisher0=99|Signal Integrity0=117|Simulation0=89|Created0=168|Height0=69|Pad Count0=90|Footprint Ref 20=117|Footprint Ref 30=117|Type0=68|Kind0=70|Netlist0=991|Spice Prefix0=93|IC0=499|SubKind0=123|Footprint Ref 40=117|Footprint Ref 50=117|Value0=65|Cp0=42|Ls0=38|Rp0=41|Rs0=39|Note0=323|TEMP0=114|Code_JEDEC0=101|Colour0=66|MinimumIntensity0=137|Footprint Ref 60=117|AD0=111|AS0=122|L0=74|NRD0=53|NRS0=50|PD0=147|PS0=158|W0=67|Code_IPC0=119|Code_JEITA0=95|Contact0=73|Dropoff0=72|Inductance0=92|PULLIN0=71|RESISTANCE0=100|Sim Note0=296|ROFF0=58|RON0=54|STATE10=70|STATE20=70|STATE30=70|STATE40=70|STATE50=70|STATE60=70|STATE70=70|STATE80=70|STATE90=70|Coupling Factor0=122|Inductance A0=105|Inductance B0=104
 [Table5]
 SchemaName=
 TableName=Seeed-Connector -2016_IntLib
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=368|Library Ref0=368|Footprint Ref0=277|Comment0=86|Component Kind0=129|Component Type0=131|Designator0=368|Footprint0=277|Library Reference0=368|Pin Count0=86|MPN0=204
 [Table6]
 SchemaName=
 TableName=Seeed-Diode-2016_IntLib
@@ -67,12 +79,15 @@ TableName=Seeed-Resistor-2016_IntLib
 Enabled=True
 UserWhere=0
 UserWhereText=
+BrowserOrder_Sorting=
+BrowserOrder_Grouping=
+BrowserOrder_Visible=Part Number0=322|Library Ref0=322|Footprint Ref0=163|Comment0=86|Component Kind0=129|Component Type0=131|Designator0=322|Footprint0=197|Library Reference0=322|MPN0=143|Pin Count0=86
 [FieldMap1]
 Options=FieldName=105848_revD3_SchLib.Part Number|TableNameOnly=105848_revD3_SchLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap2]
 Options=FieldName=AltiumIntegratedLibrary_IntLib.Part Number|TableNameOnly=AltiumIntegratedLibrary_IntLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap3]
-Options=FieldName=AltiumIntegratedLibrary_IntLib2.Part Number|TableNameOnly=AltiumIntegratedLibrary_IntLib2|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
+Options=FieldName=AltiumIntegratedLibrary_IntLib2.Comment|TableNameOnly=AltiumIntegratedLibrary_IntLib2|FieldNameOnly=Comment|FieldType=0|ParameterName=Comment|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap4]
 Options=FieldName=Miscellaneous Devices_IntLib.Part Number|TableNameOnly=Miscellaneous Devices_IntLib|FieldNameOnly=Part Number|FieldType=0|ParameterName=Part Number|VisibleOnAdd=False|AddMode=0|RemoveMode=0|UpdateMode=0
 [FieldMap5]
