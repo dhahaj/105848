@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=_BATT_EN Pin=IC1-4
+Removed Pin From Net: NetName=_OKC Pin=IC1-6
+Removed Pin From Net: NetName=OKC Pin=IC1-11
+Removed Pin From Net: NetName=BATT_EN Pin=IC1-13
+Added Pin To Net: NetName=_OKC Pin=IC1-4
+Added Pin To Net: NetName=_BATT_EN Pin=IC1-6
+Added Pin To Net: NetName=BATT_EN Pin=IC1-11
+Added Pin To Net: NetName=OKC Pin=IC1-13

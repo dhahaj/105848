@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=_OKC Pin=IC1-1
+Removed Pin From Net: NetName=QW_RELAY Pin=IC1-2
+Removed Pin From Net: NetName=PWR_RELAY Pin=IC1-3
+Removed Pin From Net: NetName=NetD1_+ Pin=IC1-14
+Removed Pin From Net: NetName=NetD2_+ Pin=IC1-15
+Removed Pin From Net: NetName=OKC Pin=IC1-16
+Added Pin To Net: NetName=QW_RELAY Pin=IC1-1
+Added Pin To Net: NetName=PWR_RELAY Pin=IC1-2
+Added Pin To Net: NetName=_OKC Pin=IC1-3
+Added Pin To Net: NetName=OKC Pin=IC1-14
+Added Pin To Net: NetName=NetD1_+ Pin=IC1-15
+Added Pin To Net: NetName=NetD2_+ Pin=IC1-16
