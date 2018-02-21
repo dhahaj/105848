@@ -1,0 +1,2 @@
+Change Component DesignItemId : Designator=D4 Old DesignItemId=SMD-DIODE-SCHOTTKY-20V-1A(SOD-123) New DesignItemId=
+Change Component Library : Designator=D4 Old Library=Seeed-Diode-2016.IntLib New Library=AltiumIntegratedLibrary.IntLib
