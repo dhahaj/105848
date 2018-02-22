@@ -38,7 +38,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=1058481\105848_revD3.PcbLib
+DocumentPath=105848.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=CYSRGKUV
 
 [Document2]
-DocumentPath=1058481\105848_revD3_1.SCHLIB
+DocumentPath=105848.SCHLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PDGWOYCT
 
 [Document3]
-DocumentPath=1058481\Train2.PCBLIB
+DocumentPath=Train2.PCBLIB
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [SearchPath1]
-Path=C:\Users\Public\Documents\Altium\AD18\105848\1058481\*.*
+Path=C:\Users\Public\Documents\Altium\AD18\105848\*.*
 IncludeSubFolders=1
 
 [OutputGroup1]
