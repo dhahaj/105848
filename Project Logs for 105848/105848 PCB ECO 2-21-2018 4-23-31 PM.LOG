@@ -1,0 +1,8 @@
+Change Component Library : Designator=U1 Old Library=Train2.SchLib New Library=105848.SCHLIB
+Change component parameters: Designator = "U1"; Footprint = "SOT-23_M"; UniqueID = "\GWILAICR"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.diodes.com/assets/Datasheets/ds31735.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "DIODES, INC."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "DMG3415U-7"; VariantName = "[No Variations]"
