@@ -1,0 +1,18 @@
+Added Component: Designator=P1(ArduinoUno)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=LOW_BATT_EN Pin=P1-2
+Added Pin To Net: NetName=_TEST_MODE Pin=P1-3
+Added Pin To Net: NetName=BATT_EN Pin=P1-4
+Added Pin To Net: NetName=_REMOTE Pin=P1-5
+Added Pin To Net: NetName=_PAD Pin=P1-6
+Added Pin To Net: NetName=RELAY Pin=P1-7
+Added Pin To Net: NetName=_OKC Pin=P1-8
+Added Pin To Net: NetName=PWR_RELAY Pin=P1-9
+Added Pin To Net: NetName=QW_RELAY Pin=P1-10
+Added Pin To Net: NetName=TEST_IND Pin=P1-13
+Added Pin To Net: NetName=GND Pin=P1-GND1
+Added Pin To Net: NetName=GND Pin=P1-GND2
+Added Pin To Net: NetName=GND Pin=P1-GND
+Added Pin To Net: NetName=R\E\S\E\T\ Pin=P1-RESET
+Added Pin To Net: NetName=NetD6_- Pin=P1-VIN
+Added Member To Class: ClassName=105848 Member=Component P1 Arduino Uno
