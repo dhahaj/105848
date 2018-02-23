@@ -1,0 +1,33 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAP200 New Footprint=CAPR5-4X5
+Change component parameters: Designator = "R10"; Footprint = "RESC1206(3216)_M"; UniqueID = "\YQRGRQTI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R13"; Footprint = "RESC1206(3216)_M"; UniqueID = "\CXNKULJE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2k"; VariantName = "[No Variations]"
+Added Component: Designator=C5(RESC1206(3216)_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.33uF"; VariantName = "[No Variations]"
+Added Component: Designator=C6(RESC1206(3216)_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = "0.1uF"; VariantName = "[No Variations]"
+Added Component: Designator=VR2(DPAK-3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=tlv1117-50&fileType=pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "TI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "LM317DCYR"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=12V Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=VIN Pin=VR2-1
+Added Pin To Net: NetName=GND Pin=VR2-2
+Added Pin To Net: NetName=12V Pin=VR2-3
+Added Member To Class: ClassName=105848 Member=Component C5 Cap
+Added Member To Class: ClassName=105848 Member=Component C6 Cap
+Added Member To Class: ClassName=105848 Member=Component VR2 MC7812

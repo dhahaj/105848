@@ -1,0 +1,60 @@
+Added Component: Designator=LED1(LED-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "17-215SURC/S530-A2/TR8"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "17-215SURC/S530-A2/TR8"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "17-215SURC/S530-A2/TR8"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED-0805)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "17-215SURC/S530-A2/TR8"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RESC1206(3216)_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RESC1206(3216)_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC1206(3216)_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC1206(3216)_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=LED1-+
+Added Pin To Net: NetName=BATT_OUT Pin=LED2-+
+Added Pin To Net: NetName=5V Pin=LED3-+
+Added Pin To Net: NetName=VIN Pin=LED4-+
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=NetLED1_- Pin=LED1--
+Added Pin To Net: NetName=NetLED1_- Pin=R10-1
+Added Net: Name=NetLED1_-
+Added Pin To Net: NetName=NetLED2_- Pin=LED2--
+Added Pin To Net: NetName=NetLED2_- Pin=R11-1
+Added Net: Name=NetLED2_-
+Added Pin To Net: NetName=NetLED3_- Pin=LED3--
+Added Pin To Net: NetName=NetLED3_- Pin=R12-1
+Added Net: Name=NetLED3_-
+Added Pin To Net: NetName=NetLED4_- Pin=LED4--
+Added Pin To Net: NetName=NetLED4_- Pin=R13-1
+Added Net: Name=NetLED4_-
+Added Member To Class: ClassName=105848 Member=Component LED1 PWR
+Added Member To Class: ClassName=105848 Member=Component LED2 BATT
+Added Member To Class: ClassName=105848 Member=Component LED3 5V
+Added Member To Class: ClassName=105848 Member=Component LED4 VIN
+Added Member To Class: ClassName=105848 Member=Component R10 Resistor
+Added Member To Class: ClassName=105848 Member=Component R11 Resistor
+Added Member To Class: ClassName=105848 Member=Component R12 Resistor
+Added Member To Class: ClassName=105848 Member=Component R13 Resistor

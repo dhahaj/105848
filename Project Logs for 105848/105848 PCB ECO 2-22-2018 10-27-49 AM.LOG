@@ -1,0 +1,22 @@
+Change Component Comment : Designator=K1 Old Comment=AC POWER OUT New Comment=DPDT RELAY
+Change Component Comment : Designator=SW1 Old Comment=Header 2x2 New Comment=PWR SWITCH
+Change Component Comment : Designator=VR1 Old Comment=LM317DCY New Comment=LM317DCYR
+Change Component Comment : Designator=J1 Old Comment=Power Jack New Comment=DC Power Jack
+Change Component Comment : Designator=J3 Old Comment=PWR IND New Comment=Header
+Change Component Comment : Designator=K2 Old Comment=QW POWER New Comment=DPDT RELAY
+Change Component Comment : Designator=J6 Old Comment=QW PWR New Comment=Header
+Change Component Comment : Designator=J4 Old Comment=RESET New Comment=Header
+Change Component Comment : Designator=J5 Old Comment=TEST IND New Comment=Header
+Change Component Library : Designator=J3 Old Library=AltiumIntegratedLibrary.IntLib New Library=105848.SCHLIB
+Change Component Library : Designator=J4 Old Library=AltiumIntegratedLibrary.IntLib New Library=105848.SCHLIB
+Change Component Library : Designator=J5 Old Library=AltiumIntegratedLibrary.IntLib New Library=105848.SCHLIB
+Change Component Library : Designator=J6 Old Library=AltiumIntegratedLibrary.IntLib New Library=105848.SCHLIB
+Change Component Library : Designator=K1 Old Library=AltiumIntegratedLibrary.IntLib New Library=105848.SCHLIB
+Change Component Library : Designator=K2 Old Library=AltiumIntegratedLibrary.IntLib New Library=105848.SCHLIB
+Change Component Library : Designator=VR1 Old Library=Train2.SchLib New Library=105848.SCHLIB
+Change component parameters: Designator = "VR1"; Footprint = "SOT223_M"; UniqueID = "\IBRKQVBS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=tlv1117-50&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "TI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "LM317DCYR"; VariantName = "[No Variations]"
