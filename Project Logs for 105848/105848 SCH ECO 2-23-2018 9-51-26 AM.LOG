@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=D1 Old Footprint=SMB_2 New Footprint=DO-214AC
+Change Component Footprint: Designator=D2 Old Footprint=SMB_2 New Footprint=DO-214AC
+Change Pin Designator/Name:  Old Designator=BR1-3 Old Name=~ New Designator =~ New Name=4
+Change Pin Designator/Name:  Old Designator=BR1-4 Old Name=~ New Designator =~ New Name=3

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=12V Pin=D4-1
+Removed Pin From Net: NetName=VADJ Pin=D4-2
+Removed Pin From Net: NetName=12V Pin=P1-VIN
+Change Component Comment : Designator=LED1 Old Comment=PWR New Comment=12V
+Added Component: Designator=D6(DO-214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "B5819W"; VariantName = "[No Variations]"
+Added Component: Designator=D7(DO-214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "B5819W"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=12V Pin=D6-+
+Added Pin To Net: NetName=12V Pin=D7-+
+Added Pin To Net: NetName=VIN Pin=D7--
+Added Pin To Net: NetName=NetD6_- Pin=D6--
+Added Pin To Net: NetName=NetD6_- Pin=P1-VIN
+Added Net: Name=NetD6_-
+Added Member To Class: ClassName=105848 Member=Component D6 1N4002
+Added Member To Class: ClassName=105848 Member=Component D7 1N4002

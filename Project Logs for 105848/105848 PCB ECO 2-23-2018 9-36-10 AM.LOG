@@ -1,0 +1,12 @@
+Change Component Comment : Designator=5V Old Comment=LED New Comment=5V
+Change Component Comment : Designator=12V Old Comment=LED New Comment=12V
+Change Component Comment : Designator=BATT Old Comment=LED New Comment=BATT
+Change Component Comment : Designator=VIN Old Comment=LED New Comment=VIN
+Change Component Designator: OldDesignator=5V NewDesignator=LED3
+Change Component Designator: OldDesignator=12V NewDesignator=LED1
+Change Component Designator: OldDesignator=BATT NewDesignator=LED2
+Change Component Designator: OldDesignator=VIN NewDesignator=LED4
+Change Net Name : Old Net Name=Net5V_- New Net Name=NetLED3_-
+Change Net Name : Old Net Name=Net12V_- New Net Name=NetLED1_-
+Change Net Name : Old Net Name=NetBATT_- New Net Name=NetLED2_-
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetLED4_-

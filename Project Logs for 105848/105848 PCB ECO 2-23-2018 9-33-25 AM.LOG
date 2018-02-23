@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=12V Pin=D4-1
+Removed Pin From Net: NetName=VADJ Pin=D4-2
+Change Component Comment : Designator=LED3 Old Comment=5V New Comment=LED
+Change Component Comment : Designator=LED1 Old Comment=12V New Comment=LED
+Change Component Comment : Designator=LED2 Old Comment=BATT New Comment=LED
+Change Component Comment : Designator=LED4 Old Comment=VIN New Comment=LED

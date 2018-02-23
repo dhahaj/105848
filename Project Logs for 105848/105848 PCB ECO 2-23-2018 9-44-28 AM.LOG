@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=AC+ Pin=BR1-1
+Removed Pin From Net: NetName=AC- Pin=BR1-2
+Removed Pin From Net: NetName=VIN Pin=BR1-3
+Removed Pin From Net: NetName=GND Pin=BR1-4
+Change Component Footprint: Designator=BR1 Old Footprint=BRIDGE_DIP New Footprint=BRIDGE_1A_SMT
+Added Pin To Net: NetName=VIN Pin=BR1-1
+Added Pin To Net: NetName=GND Pin=BR1-2
+Added Pin To Net: NetName=AC- Pin=BR1-3
+Added Pin To Net: NetName=AC+ Pin=BR1-4
