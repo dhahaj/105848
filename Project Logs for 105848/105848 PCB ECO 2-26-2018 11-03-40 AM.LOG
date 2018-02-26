@@ -1,0 +1,6 @@
+Change component parameters: Designator = "VR3"; Footprint = "DPAK-3"; UniqueID = "\QFINGVKA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=tlv1117-50&fileType=pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "TI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "MC7805"; VariantName = "[No Variations]"

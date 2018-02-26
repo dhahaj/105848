@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VIN Pin=BR1-1
+Added Component: Designator=F1(FUSE_200)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=F1-2
+Added Pin To Net: NetName=NetBR1_1 Pin=BR1-1
+Added Pin To Net: NetName=NetBR1_1 Pin=F1-1
+Added Net: Name=NetBR1_1
+Added Member To Class: ClassName=105848 Member=Component F1 1A
