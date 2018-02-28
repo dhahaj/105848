@@ -1,0 +1,28 @@
+Added Component: Designator=Q2(SOT-23_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "http://datasheet.octopart.com/DMG3415U-7-Diodes-Inc.-datasheet-10027536.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "DIODES, INC."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "2N7002"; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT-23_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = ""; Value = "http://datasheet.octopart.com/DMG3415U-7-Diodes-Inc.-datasheet-10027536.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "DIODES, INC."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "2N7002"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=NetK3_10 Pin=K3-10
+Added Pin To Net: NetName=NetK3_10 Pin=Q3-3
+Added Net: Name=NetK3_10
+Added Pin To Net: NetName=NetK4_10 Pin=K4-10
+Added Pin To Net: NetName=NetK4_10 Pin=Q2-3
+Added Net: Name=NetK4_10
+Added Pin To Net: NetName=RLY1 Pin=P1-12
+Added Pin To Net: NetName=RLY1 Pin=P2-27
+Added Pin To Net: NetName=RLY1 Pin=Q3-1
+Added Net: Name=RLY1
+Added Pin To Net: NetName=RLY2 Pin=P1-11
+Added Pin To Net: NetName=RLY2 Pin=P2-26
+Added Pin To Net: NetName=RLY2 Pin=Q2-1
+Added Net: Name=RLY2
+Added Member To Class: ClassName=105848 Member=Component Q2 MOSFET P-CHANNEL
+Added Member To Class: ClassName=105848 Member=Component Q3 MOSFET P-CHANNEL

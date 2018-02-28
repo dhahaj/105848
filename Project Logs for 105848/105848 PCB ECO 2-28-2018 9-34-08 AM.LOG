@@ -1,0 +1,14 @@
+Added Component: Designator=K3(AZ_940)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.azettler.com/pdfs/az850.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "101671"; VariantName = "[No Variations]"
+Added Component: Designator=K4(AZ_940)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.azettler.com/pdfs/az850.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "101671"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=K3-1
+Added Pin To Net: NetName=5V Pin=K4-1
+Added Member To Class: ClassName=105848 Member=Component K3 RELAY1
+Added Member To Class: ClassName=105848 Member=Component K4 RELAY2

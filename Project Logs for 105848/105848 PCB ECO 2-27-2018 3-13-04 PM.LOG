@@ -1,0 +1,21 @@
+Added Component: Designator=P2(Adafruit Metro Mini)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://github.com/adafruit/Adafruit-METRO-328-PCB/raw/master/Metro%20Mini%20Rev%20A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR"; Value = "Adafruit"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MFR P/N"; Value = "2590"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=P2-4
+Added Pin To Net: NetName=GND Pin=P2-5
+Added Pin To Net: NetName=GND Pin=P2-6
+Added Pin To Net: NetName=NetD6_- Pin=P2-7
+Added Pin To Net: NetName=LOW_BATT_EN Pin=P2-17
+Added Pin To Net: NetName=_TEST_MODE Pin=P2-18
+Added Pin To Net: NetName=BATT_EN Pin=P2-19
+Added Pin To Net: NetName=_REMOTE Pin=P2-20
+Added Pin To Net: NetName=_PAD Pin=P2-21
+Added Pin To Net: NetName=RELAY Pin=P2-22
+Added Pin To Net: NetName=_OKC Pin=P2-23
+Added Pin To Net: NetName=PWR_RELAY Pin=P2-24
+Added Pin To Net: NetName=QW_RELAY Pin=P2-25
+Added Pin To Net: NetName=TEST_IND Pin=P2-28
+Added Member To Class: ClassName=105848 Member=Component P2 Metro Mini 328
