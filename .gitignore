@@ -1,0 +1,10 @@
+# Package Files #
+*.zip
+*.tar.gz
+*.rar
+
+id_rsa*
+
+/__Previews/
+/History/
+.gitignore  
