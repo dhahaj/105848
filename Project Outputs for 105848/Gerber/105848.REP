@@ -2,66 +2,6 @@
 FileName = 105848.GBR
 AutoAperture = True
 *************************************************************
-Generating : Top Layer
-      File : 105848.GTL
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D15
-    D16
-    D17
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-*************************************************************
-
-*************************************************************
 Generating : Drill Drawing
       File : 105848.GD1
 
@@ -75,7 +15,7 @@ Used DCodes :
     D12
     D13
     D15
-    D80
+    D81
     D107
     D108
 *************************************************************
@@ -94,122 +34,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Paste
-      File : 105848.GTP
-
-    Adding Layer      : Top Paste
-
-    Adding Layer      : Top Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : 105848.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D13
-    D16
-    D17
-    D78
-    D79
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-*************************************************************
-
-*************************************************************
-Generating : Route Tool Path
-      File : 105848.GM17
-
-    Adding Layer      : Route Tool Path
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : 105848.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : 105848.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
-    D12
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : 105848.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
 Generating : Top Solder
       File : 105848.GTS
 
@@ -221,7 +45,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D37
     D38
     D39
     D40
@@ -262,6 +85,48 @@ Used DCodes :
     D75
     D76
     D77
+    D78
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : 105848.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D16
+    D17
+    D79
+    D80
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
 *************************************************************
 
 *************************************************************
@@ -276,8 +141,6 @@ Generating : Bottom Solder
 
 
 Used DCodes :
-    D52
-    D53
     D54
     D55
     D56
@@ -300,6 +163,142 @@ Used DCodes :
     D73
     D74
     D75
+    D76
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : 105848.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Route Tool Path
+      File : 105848.GM17
+
+    Adding Layer      : Route Tool Path
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : 105848.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : 105848.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D13
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : 105848.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : 105848.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D15
+    D16
+    D17
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
 *************************************************************
 
 *************************************************************
