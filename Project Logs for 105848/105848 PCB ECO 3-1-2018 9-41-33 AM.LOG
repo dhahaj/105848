@@ -1,0 +1,4 @@
+Added Component: Designator=D9(SOT-23_M)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "B5819W"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=105848 Member=Component D9 1N4002

@@ -1,0 +1,6 @@
+Added Component: Designator=D8(DO-214AC)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MPN"; Value = "B5819W"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=D8-+
+Added Pin To Net: NetName=12V Pin=D8--
+Added Member To Class: ClassName=105848 Member=Component D8 1N4002

@@ -1,0 +1,18 @@
+Change Component Comment : Designator=Q2 Old Comment=MOSFET P-CHANNEL New Comment=2N7002
+Change Component Comment : Designator=Q3 Old Comment=MOSFET P-CHANNEL New Comment=2N7002
+Change Component Description : Designator=Q2 Old Description=MOSFET P-CHANNEL New Description=MOSFET N-CHANNEL
+Change Component Description : Designator=Q3 Old Description=MOSFET P-CHANNEL New Description=MOSFET N-CHANNEL
+Change component parameters: Designator = "Q2"; Footprint = "SOT-23_M"; UniqueID = "\POIDAWRK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "http://datasheet.octopart.com/DMG3415U-7-Diodes-Inc.-datasheet-10027536.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "ON SEMI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "2N7002"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3"; Footprint = "SOT-23_M"; UniqueID = "\KNQAOXTQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = ""; Value = "http://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MFR"; Value = "ON SEMI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "2N7002"; VariantName = "[No Variations]"

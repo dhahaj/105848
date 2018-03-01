@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetD1_+ Pin=D1-+
+Removed Pin From Net: NetName=5V Pin=D1--
+Removed Pin From Net: NetName=NetD2_+ Pin=D2-+
+Removed Pin From Net: NetName=5V Pin=D2--
+Change Component Footprint: Designator=D1 Old Footprint=DO-214AC New Footprint=SOT-23_M
+Change Component Footprint: Designator=D2 Old Footprint=DO-214AC New Footprint=SOT-23_M
+Added Pin To Net: NetName=NetD1_+ Pin=D1-1
+Added Pin To Net: NetName=5V Pin=D1-3
+Added Pin To Net: NetName=NetD2_+ Pin=D2-1
+Added Pin To Net: NetName=5V Pin=D2-3
