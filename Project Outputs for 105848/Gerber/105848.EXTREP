@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: 105848.GBR   3/1/2018  3:32:32 PM
+Gerber File Extension Report For: 105848.GBR   3/1/2018  4:55:06 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -7,15 +7,15 @@ Gerber File Extension Report For: 105848.GBR   3/1/2018  3:32:32 PM
 Layer Extension     Layer Description                      
 ------------------------------------------------------------------------------------------
 .GTL                Top Layer                               
-.GBL                Bottom Layer                            
+.GBS                Bottom Solder                           
 .GTP                Top Paste                               
 .GBP                Bottom Paste                            
 .GBO                Bottom Overlay                          
-.GKO                Keep-Out Layer                          
-.GTS                Top Solder                              
-.GTO                Top Overlay                             
-.GBS                Bottom Solder                           
 .GM17               Route Tool Path                         
+.GTO                Top Overlay                             
+.GKO                Keep-Out Layer                          
+.GBL                Bottom Layer                            
+.GTS                Top Solder                              
 .GD1                Drill Drawing                           
 .GG1                Drill Guide                             
 ------------------------------------------------------------------------------------------
