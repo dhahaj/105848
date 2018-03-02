@@ -1,0 +1,123 @@
+Removed Parameter :Datasheet from Part Q1
+Removed Parameter :Datasheet from Part U1
+Removed Parameter ComponentField7:Published 8-Jun-2000 from Part BR1
+Removed Parameter DatasheetVersion:PD-9.814 from Part Q2
+Removed Parameter DatasheetVersion:PD-9.814 from Part Q3
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part D3
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part Q2
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part Q3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part D3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part Q2
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part Q3
+Removed Parameter Manufacturer: from Part R1
+Removed Parameter Manufacturer: from Part R2
+Removed Parameter Manufacturer: from Part R3
+Removed Parameter Manufacturer: from Part R4
+Removed Parameter Manufacturer: from Part R5
+Removed Parameter Manufacturer: from Part R6
+Removed Parameter Manufacturer: from Part R8
+Removed Parameter Manufacturer: from Part R9
+Removed Parameter Manufacturer: from Part R10
+Removed Parameter Manufacturer: from Part R11
+Removed Parameter Manufacturer: from Part R12
+Removed Parameter Manufacturer: from Part R13
+Removed Parameter MFR:Adafruit from Part P2
+Removed Parameter MFR:arduino .cc from Part P1
+Removed Parameter MFR:DIODES, INC. from Part U1
+Removed Parameter MFR:Fairchild Semi from Part Q1
+Removed Parameter MFR:ON SEMI from Part VR2
+Removed Parameter MFR:ON SEMI from Part VR3
+Removed Parameter MFR:TI from Part VR1
+Removed Parameter MFR:Vishay from Part C4
+Removed Parameter MFR:VISHAY from Part D3
+Removed Parameter MFR:Vishay from Part IC2
+Removed Parameter MFR:Vishay from Part IC2
+Removed Parameter MFR P/N:2590 from Part P2
+Removed Parameter MFR P/N:MMBT2222 from Part Q1
+Removed Parameter MFR P/N:ULN2003A from Part IC1
+Removed Parameter MFR PART:ILD207T from Part IC2
+Removed Parameter MFR PART:ILD207T from Part IC2
+Removed Parameter Note:Pin 2 is electrically connected to pin 4. from Part Q2
+Removed Parameter Note:Pin 2 is electrically connected to pin 4. from Part Q3
+Removed Parameter OriginalName:NPN from Part Q1
+Removed Parameter PackageVersion:Feb-1997 from Part Q2
+Removed Parameter PackageVersion:Feb-1997 from Part Q3
+Removed Parameter Part Number: from Part R1
+Removed Parameter Part Number: from Part R2
+Removed Parameter Part Number: from Part R3
+Removed Parameter Part Number: from Part R4
+Removed Parameter Part Number: from Part R5
+Removed Parameter Part Number: from Part R6
+Removed Parameter Part Number: from Part R8
+Removed Parameter Part Number: from Part R9
+Removed Parameter Part Number: from Part R10
+Removed Parameter Part Number: from Part R11
+Removed Parameter Part Number: from Part R12
+Removed Parameter Part Number: from Part R13
+Removed Parameter Power Rating:0.25W from Part C4
+Removed Parameter Published:8-Jun-2000 from Part D3
+Removed Parameter Published:8-Jun-2000 from Part Q2
+Removed Parameter Published:8-Jun-2000 from Part Q3
+Removed Parameter Publisher:Altium Limited from Part Q2
+Removed Parameter Publisher:Altium Limited from Part Q3
+Change Component Parameter Comment in BR1 Old= New=BRIDGE - SMT
+Change Component Parameter Description in BR1 Old= New=1A SMT Bridge Rectifier
+Change Value of Parameter Value in Part BR1 Old= New=1A SMT Bridge Rectifier
+Change Component Parameter Comment in C1 Old= New=Capacitor - Thru-Hole
+Change Component Parameter Description in C1 Old=CAP200 New=Capacitor TO - 200 SPACING
+Change Component Parameter Comment in C2 Old= New=1206 Capacitor
+Change Component Parameter Comment in C3 Old= New=1206 Capacitor
+Change Component Parameter Comment in C4 Old= New=1206 Capacitor
+Change Component Parameter Comment in C5 Old= New=1206 Capacitor
+Change Component Parameter Comment in C6 Old= New=1206 Capacitor
+Change Component Parameter Comment in C7 Old= New=1206 Capacitor
+Change Component Parameter Comment in C8 Old= New=1206 Capacitor
+Change Component Parameter Comment in C9 Old= New=Capacitor - Thru-Hole
+Change Component Parameter Description in C9 Old=CAP200 New=Capacitor TO - 200 SPACING
+Change Component Parameter Comment in D1 Old= New=Diode SMT
+Change Component Parameter Comment in D2 Old= New=Diode SMT
+Change Component Parameter Description in D2 Old=IN5400 New=1N5400
+Change Component Parameter Description in D3 Old=Schottky Diode New=Schottky Diode, SMD
+Change Component Parameter Description in D4 Old= New=Diode, SMD
+Change Component Parameter Description in D5 Old= New=Diode, SMD
+Change Component Parameter Description in D6 Old= New=Diode, SMD
+Change Component Parameter Description in D7 Old= New=Diode, SMD
+Change Component Parameter Description in D8 Old= New=Diode, SMD
+Change Component Parameter Description in D9 Old= New=Diode, SMD
+Change Component Parameter Comment in D10 Old= New=1N4002
+Change Component Parameter Description in D10 Old= New=Diode, SMD
+Change Component Parameter Comment in F1 Old= New=THERMAL FUSE 1A
+Change Component Parameter Comment in IC2 Old= New=OPTO ISOLATOR
+Change Component Parameter Comment in IC2 Old= New=OPTO ISOLATOR
+Change Component Parameter Description in J1 Old= New=DC POWER PLUG
+Change Value of Parameter Value in Part J3 Old= New=JUMPER_2
+Change Value of Parameter Value in Part J4 Old= New=JUMPER_2
+Change Value of Parameter Value in Part J5 Old= New=JUMPER_2
+Change Value of Parameter Value in Part J6 Old= New=JUMPER_2
+Change Value of Parameter Value in Part J10 Old= New=JMP_3PIN
+Change Component Parameter Description in JP1 Old= New=Ribbon Cable Connection
+Change Component Parameter Description in LED1 Old= New=12V Power Indicator
+Change Component Parameter Description in LED2 Old= New=Battery Power Indicator
+Change Component Parameter Description in LED3 Old= New=5V Power Indicator
+Change Component Parameter Description in LED4 Old= New=Power Input Indicator
+Change Component Parameter Description in R1 Old= New=RESISTOR, SMD, 1206
+Change Component Parameter Description in R2 Old= New=RESISTOR, SMD, 1206
+Change Component Parameter Description in R3 Old= New=RESISTOR, SMD, 1206
+Change Component Parameter Description in R4 Old= New=RESISTOR, SMD, 1206
+Change Component Parameter Description in R5 Old= New=RESISTOR, SMD, 1206
+Change Component Parameter Description in R6 Old= New=RESISTOR, SMD, 1206
+Change Component Parameter Description in R7 Old= New=RESISTOR, SMD, 1206
+Change Component Parameter Description in R8 Old= New=RESISTOR, SMD, 1206
+Change Component Parameter Description in R9 Old= New=RESISTOR, SMD, 1206
+Change Component Parameter Description in R10 Old= New=RESISTOR, SMD, 1206
+Change Component Parameter Description in R11 Old= New=RESISTOR, SMD, 1206
+Change Component Parameter Description in R12 Old= New=RESISTOR, SMD, 1206
+Change Component Parameter Description in R13 Old= New=RESISTOR, SMD, 1206
+Change Component Parameter Description in VR1 Old=Adjustable Voltage Regulator New=Adjustable SMT Voltage Regulator
+Change Component Parameter Description in VR2 Old=12V Fixed Output Voltage Regulator New=SMT 12V Fixed Output Voltage Regulator
+Change Component Parameter Description in VR3 Old=5V Linear Voltage Regulator New=SMT 5V Linear Voltage Regulator
+Added Parameter MPN=2590 to Part P2
+Added Parameter MPN=ILD207T to Part IC2
+Added Parameter MPN=ILD207T to Part IC2
+Added Parameter MPN=MMBT2222 to Part Q1
+Added Parameter MPN=ULN2003A to Part IC1

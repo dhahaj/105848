@@ -1,0 +1,188 @@
+Removed Parameter :http://datasheet.octopart.com/MMBT2222-Fairchild-datasheet-39713.pdf from Part Q1
+Removed Parameter ComponentLink1Description:Datasheet from Part R7
+Removed Parameter ComponentLink1URL:http://www.mouser.com/ds/2/427/dcrcwe3-109170.pdf from Part R7
+Removed Parameter Part Number:CRCW12066K04FKEA from Part R7
+Change Component Parameter Description in C2 Old=CAP200 New=1206 Ceramic Capacitor
+Change Component Parameter Description in C3 Old=CAP200 New=1206 Ceramic Capacitor
+Change Component Parameter Description in C4 Old=Capacitor New=1206 Ceramic Capacitor
+Change Component Parameter Description in C5 Old=CAP200 New=1206 Ceramic Capacitor
+Change Component Parameter Description in C6 Old=CAP200 New=1206 Ceramic Capacitor
+Change Component Parameter Description in C7 Old=CAP200 New=1206 Ceramic Capacitor
+Change Component Parameter Description in C8 Old=CAP200 New=1206 Ceramic Capacitor
+Change Value of Parameter Value in Part IC2 Old=ILD207 New=ILD207T
+Change Value of Parameter MPN in Part K1 Old=Zetler New=AZ850-5
+Change Value of Parameter MPN in Part K2 Old=Zetler New=AZ850-5
+Change Value of Parameter MPN in Part K3 Old=Zetler New=AZ850-5
+Change Value of Parameter MPN in Part K4 Old=Zetler New=AZ850-5
+Change Value of Parameter ComponentLink1Description in Part Q2 Old=Manufacturer Link New=Datasheet
+Change Value of Parameter ComponentLink1URL in Part Q2 Old=http://www.irf.com/ New=http://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF
+Change Component Parameter Description in Q2 Old=N-Channel MOSFET New=N-Channel Enhancement Mode FET
+Change Component Parameter Library Reference in Q2 Old=NMOS-2 New=N-Channel Enhancement Mode FET
+Change Value of Parameter PackageDescription in Part Q2 Old=TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.54 mm New=SOT-23
+Change Value of Parameter PackageReference in Part Q2 Old=TO-220AB New=SOT-23
+Change Value of Parameter ComponentLink1Description in Part Q3 Old=Manufacturer Link New=Datasheet
+Change Value of Parameter ComponentLink1URL in Part Q3 Old=http://www.irf.com/ New=http://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF
+Change Component Parameter Description in Q3 Old=N-Channel MOSFET New=N-Channel Enhancement Mode FET
+Change Component Parameter Library Reference in Q3 Old=NMOS-2 New=N-Channel Enhancement Mode FET
+Change Value of Parameter PackageDescription in Part Q3 Old=TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.54 mm New=SOT-23
+Change Value of Parameter PackageReference in Part Q3 Old=TO-220AB New=SOT-23
+Change Value of Parameter Tolerance in Part R6 Old=1% New=5%
+Change Value of Parameter Manufacturer in Part R7 Old=Vishay New=
+Change Value of Parameter Tolerance in Part R7 Old=1% New=5%
+Change Value of Parameter Tolerance in Part R8 Old=1% New=5%
+Change Component Parameter Description in SW1 Old= New=Wire-Board Connection
+Change Value of Parameter ComponentLink1URL in Part VR1 Old=http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=tlv1117-50&fileType=pdf New=http://www.ti.com/lit/ds/symlink/lm317.pdf
+Change Value of Parameter ComponentLink1URL in Part VR2 Old=http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=tlv1117-50&fileType=pdf New=https://www.onsemi.com/pub/Collateral/MC7800-D.PDF
+Change Value of Parameter ComponentLink1URL in Part VR3 Old=http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=tlv1117-50&fileType=pdf New=https://www.onsemi.com/pub/Collateral/MC7800-D.PDF
+Added Parameter ComponentLink1Description=Datasheet to Part Q1
+Added Parameter ComponentLink1URL=http://datasheet.octopart.com/MMBT2222-Fairchild-datasheet-39713.pdf to Part Q1
+Added Parameter Manufacturer=Adafruit Industries to Part P2
+Added Parameter Manufacturer=Arduino.cc to Part P1
+Added Parameter Manufacturer=Diodes, Inc. to Part U1
+Added Parameter Manufacturer=ON Semi to Part VR2
+Added Parameter Manufacturer=ON Semi to Part VR3
+Added Parameter Manufacturer=Tetco to Part J2
+Added Parameter Manufacturer=TI to Part VR1
+Added Parameter Manufacturer= to Part BR1
+Added Parameter Manufacturer= to Part C1
+Added Parameter Manufacturer= to Part C2
+Added Parameter Manufacturer= to Part C3
+Added Parameter Manufacturer= to Part C4
+Added Parameter Manufacturer= to Part C5
+Added Parameter Manufacturer= to Part C6
+Added Parameter Manufacturer= to Part C7
+Added Parameter Manufacturer= to Part C8
+Added Parameter Manufacturer= to Part C9
+Added Parameter Manufacturer= to Part D1
+Added Parameter Manufacturer= to Part D2
+Added Parameter Manufacturer= to Part D3
+Added Parameter Manufacturer= to Part D4
+Added Parameter Manufacturer= to Part D5
+Added Parameter Manufacturer= to Part D6
+Added Parameter Manufacturer= to Part D7
+Added Parameter Manufacturer= to Part D8
+Added Parameter Manufacturer= to Part D9
+Added Parameter Manufacturer= to Part D10
+Added Parameter Manufacturer= to Part F1
+Added Parameter Manufacturer= to Part IC1
+Added Parameter Manufacturer= to Part IC2
+Added Parameter Manufacturer= to Part IC2
+Added Parameter Manufacturer= to Part J1
+Added Parameter Manufacturer= to Part J3
+Added Parameter Manufacturer= to Part J4
+Added Parameter Manufacturer= to Part J5
+Added Parameter Manufacturer= to Part J6
+Added Parameter Manufacturer= to Part J7
+Added Parameter Manufacturer= to Part J8
+Added Parameter Manufacturer= to Part J9
+Added Parameter Manufacturer= to Part J10
+Added Parameter Manufacturer= to Part JP1
+Added Parameter Manufacturer= to Part JP2
+Added Parameter Manufacturer= to Part LED1
+Added Parameter Manufacturer= to Part LED2
+Added Parameter Manufacturer= to Part LED3
+Added Parameter Manufacturer= to Part LED4
+Added Parameter Manufacturer= to Part Q1
+Added Parameter Manufacturer= to Part Q2
+Added Parameter Manufacturer= to Part Q3
+Added Parameter Manufacturer= to Part R1
+Added Parameter Manufacturer= to Part R2
+Added Parameter Manufacturer= to Part R3
+Added Parameter Manufacturer= to Part R4
+Added Parameter Manufacturer= to Part R5
+Added Parameter Manufacturer= to Part R6
+Added Parameter Manufacturer= to Part R8
+Added Parameter Manufacturer= to Part R9
+Added Parameter Manufacturer= to Part R10
+Added Parameter Manufacturer= to Part R11
+Added Parameter Manufacturer= to Part R12
+Added Parameter Manufacturer= to Part R13
+Added Parameter Manufacturer= to Part SW1
+Added Parameter Manufacturer=Zetler to Part K1
+Added Parameter Manufacturer=Zetler to Part K2
+Added Parameter Manufacturer=Zetler to Part K3
+Added Parameter Manufacturer=Zetler to Part K4
+Added Parameter MPN=TECO-5520470-3_V to Part J2
+Added Parameter MPN= to Part R1
+Added Parameter MPN= to Part R2
+Added Parameter MPN= to Part R3
+Added Parameter MPN= to Part R4
+Added Parameter MPN= to Part R5
+Added Parameter MPN= to Part R6
+Added Parameter MPN= to Part R7
+Added Parameter MPN= to Part R8
+Added Parameter MPN= to Part R9
+Added Parameter MPN= to Part R10
+Added Parameter MPN= to Part R11
+Added Parameter MPN= to Part R12
+Added Parameter MPN= to Part R13
+Added Parameter PackageDescription=0805 to Part LED1
+Added Parameter PackageDescription=0805 to Part LED2
+Added Parameter PackageDescription=0805 to Part LED3
+Added Parameter PackageDescription=0805 to Part LED4
+Added Parameter PackageDescription=1206 to Part C2
+Added Parameter PackageDescription=1206 to Part C3
+Added Parameter PackageDescription=1206 to Part C4
+Added Parameter PackageDescription=1206 to Part C5
+Added Parameter PackageDescription=1206 to Part C6
+Added Parameter PackageDescription=1206 to Part C7
+Added Parameter PackageDescription=1206 to Part C8
+Added Parameter PackageDescription=1206 to Part R1
+Added Parameter PackageDescription=1206 to Part R2
+Added Parameter PackageDescription=1206 to Part R3
+Added Parameter PackageDescription=1206 to Part R4
+Added Parameter PackageDescription=1206 to Part R5
+Added Parameter PackageDescription=1206 to Part R6
+Added Parameter PackageDescription=1206 to Part R7
+Added Parameter PackageDescription=1206 to Part R8
+Added Parameter PackageDescription=1206 to Part R9
+Added Parameter PackageDescription=1206 to Part R10
+Added Parameter PackageDescription=1206 to Part R11
+Added Parameter PackageDescription=1206 to Part R12
+Added Parameter PackageDescription=1206 to Part R13
+Added Parameter PackageDescription=1206 to Part SW1
+Added Parameter PackageDescription=DPAK-3 to Part VR3
+Added Parameter PackageDescription=DPAK to Part VR2
+Added Parameter PackageDescription=SOT-23-4 to Part VR1
+Added Parameter PackageDescription=SOT-23 to Part Q1
+Added Parameter PackageDescription=SOT-23 to Part U1
+Added Parameter PackageReference=0805 to Part LED1
+Added Parameter PackageReference=0805 to Part LED2
+Added Parameter PackageReference=0805 to Part LED3
+Added Parameter PackageReference=0805 to Part LED4
+Added Parameter PackageReference=1206 to Part C2
+Added Parameter PackageReference=1206 to Part C3
+Added Parameter PackageReference=1206 to Part C4
+Added Parameter PackageReference=1206 to Part C5
+Added Parameter PackageReference=1206 to Part C6
+Added Parameter PackageReference=1206 to Part C7
+Added Parameter PackageReference=1206 to Part C8
+Added Parameter PackageReference=1206 to Part R1
+Added Parameter PackageReference=1206 to Part R2
+Added Parameter PackageReference=1206 to Part R3
+Added Parameter PackageReference=1206 to Part R4
+Added Parameter PackageReference=1206 to Part R5
+Added Parameter PackageReference=1206 to Part R6
+Added Parameter PackageReference=1206 to Part R7
+Added Parameter PackageReference=1206 to Part R8
+Added Parameter PackageReference=1206 to Part R9
+Added Parameter PackageReference=1206 to Part R10
+Added Parameter PackageReference=1206 to Part R11
+Added Parameter PackageReference=1206 to Part R12
+Added Parameter PackageReference=1206 to Part R13
+Added Parameter PackageReference=1206 to Part SW1
+Added Parameter PackageReference=DPAK-3 to Part VR3
+Added Parameter PackageReference=DPAK to Part VR2
+Added Parameter PackageReference=SOT-23-4 to Part VR1
+Added Parameter PackageReference=SOT-23 to Part Q1
+Added Parameter PackageReference=SOT-23 to Part U1
+Added Parameter Tolerance=5% to Part R1
+Added Parameter Tolerance=5% to Part R2
+Added Parameter Tolerance=5% to Part R3
+Added Parameter Tolerance=5% to Part R4
+Added Parameter Tolerance=5% to Part R5
+Added Parameter Tolerance=5% to Part R9
+Added Parameter Tolerance=5% to Part R10
+Added Parameter Tolerance=5% to Part R11
+Added Parameter Tolerance=5% to Part R12
+Added Parameter Tolerance=5% to Part R13

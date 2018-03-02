@@ -1,0 +1,52 @@
+Change Component Parameter Comment in D10 Old= New=Diode 1N5400
+Change Value of Parameter Value in Part F1 Old= New=1A fuse
+Change Value of Parameter Value in Part J7 Old= New=JMP_3PIN
+Change Value of Parameter Value in Part J8 Old= New=JMP_3PIN
+Change Value of Parameter Value in Part J9 Old= New=JMP_3PIN
+Change Component Parameter Description in P1 Old= New=Arduino Uno
+Change Component Parameter Comment in R1 Old= New=Resistor
+Change Component Parameter Comment in R2 Old= New=Resistor
+Change Component Parameter Comment in R3 Old= New=Resistor
+Change Component Parameter Comment in R5 Old= New=Resistor
+Change Component Parameter Comment in R6 Old= New=Resistor
+Change Component Parameter Comment in R7 Old= New=Resistor
+Change Component Parameter Comment in R8 Old= New=Resistor
+Change Value of Parameter MFR in Part VR2 Old=TI New=ON SEMI
+Added Parameter MFR=arduino .cc to Part P1
+Added Parameter MPN=2N7002 to Part Q2
+Added Parameter MPN=2N7002 to Part Q3
+Added Parameter Value=1N4002 to Part D4
+Added Parameter Value=1N4002 to Part D5
+Added Parameter Value=1N4002 to Part D6
+Added Parameter Value=1N4002 to Part D7
+Added Parameter Value=1N4002 to Part D8
+Added Parameter Value=1N4002 to Part D9
+Added Parameter Value=2N7002 to Part Q2
+Added Parameter Value=2N7002 to Part Q3
+Added Parameter Value=8x2_HEADER to Part JP1
+Added Parameter Value=Arduino Uno to Part P1
+Added Parameter Value=AZ850-5 to Part K1
+Added Parameter Value=AZ850-5 to Part K2
+Added Parameter Value=AZ850-5 to Part K3
+Added Parameter Value=AZ850-5 to Part K4
+Added Parameter Value=Diode 1N5400 to Part D1
+Added Parameter Value=Diode 1N5400 to Part D2
+Added Parameter Value=Diode 1N5400 to Part D10
+Added Parameter Value=Header 2x2 to Part SW1
+Added Parameter Value=ICSP to Part JP2
+Added Parameter Value=ILD207 to Part IC2
+Added Parameter Value=ILD207 to Part IC2
+Added Parameter Value=KLD-0202_2 to Part J1
+Added Parameter Value=LED-0805 to Part LED1
+Added Parameter Value=LED-0805 to Part LED2
+Added Parameter Value=LED-0805 to Part LED3
+Added Parameter Value=LED-0805 to Part LED4
+Added Parameter Value=LM317 to Part VR1
+Added Parameter Value=MC7812 to Part VR2
+Added Parameter Value=MC7812 to Part VR3
+Added Parameter Value=Metro Mini 328 to Part P2
+Added Parameter Value=MMBT2222 to Part Q1
+Added Parameter Value=P-CHANNEL MOSFET to Part U1
+Added Parameter Value=SS12 to Part D3
+Added Parameter Value=TECO-5520470-3_V to Part J2
+Added Parameter Value=ULN2003A to Part IC1
