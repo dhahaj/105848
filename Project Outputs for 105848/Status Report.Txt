@@ -1,23 +1,14 @@
-Output: Gerber Files
-Type  : Gerber
-From  : Variant [[No Variations]] of PCB Document [105848.PcbDoc]
-   Generated File[105848.GTO]
-   Generated File[105848.GTP]
-   Generated File[105848.GTS]
-   Generated File[105848.GTL]
-   Generated File[105848.GBL]
-   Generated File[105848.GBS]
-   Generated File[105848.GBP]
-   Generated File[105848.GBO]
-   Generated File[105848.GM17]
-   Generated File[105848.GKO]
-   Generated File[105848.GD1]
-   Generated File[105848.GG1]
-   Generated File[105848.EXTREP]
-   Generated File[105848.REP]
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 1:49:26 PM On 3/2/2018
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [105848.SchDoc]
+   Generated File[Bill of Materials-105848.xlsx]
 
 
-Files Generated   : 14
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 8:17:20 AM On 3/2/2018
+Finished Output Generation At 1:49:28 PM On 3/2/2018
