@@ -135,10 +135,10 @@ OutputName7=Bill of Materials
 OutputCategory7=Report
 OutputDocumentPath7=105848.SchDoc
 OutputVariantName7=
-OutputEnabled7=0
+OutputEnabled7=1
 OutputEnabled7_OutputMedium1=0
 OutputEnabled7_OutputMedium2=0
-OutputEnabled7_OutputMedium3=0
+OutputEnabled7_OutputMedium3=1
 OutputEnabled7_OutputMedium4=0
 OutputEnabled7_OutputMedium5=0
 OutputEnabled7_OutputMedium6=1
@@ -149,7 +149,7 @@ Configuration7_Item1=CaptionAsName
 Configuration7_Name2=Filter
 Configuration7_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration7_Name3=General
-Configuration7_Item3=OpenExported=True|AddToProject=True|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=3|FormWidth=1663|FormHeight=1033|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|ViewType=0
+Configuration7_Item3=OpenExported=True|AddToProject=True|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1663|FormHeight=1033|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|ViewType=0
 Configuration7_Name4=GroupOrder
 Configuration7_Item4=Value=True
 Configuration7_Name5=OutputConfigurationParameter1
