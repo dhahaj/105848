@@ -2,7 +2,7 @@
 
 [![GitHub Release][releases-shield]][releases]
 [![GitHub Commits][commits-shield]][commits]
-[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/google/skia/infra/config.svg?style=flat-square)](https://detex.com)
+[![GitHub last commit (branch)](https://img.shields.io/github/last-commit/google/skia/infra/config.svg?style=flat-square)(https://detex.com)
 
 
 ### IDE: Altium Designer 18
