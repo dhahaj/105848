@@ -12,4 +12,4 @@
 [releases]: https://github.com/dhahaj/105848/releases
 [releases-shield]: https://img.shields.io/github/release/hassio-addons/addon-appdaemon3.svg
 [commits]: https://github.com/dhahaj/105848/commits/master
-[commits-shield]: https://img.shields.io/github/commit-activity/y/hassio-addons/addon-appdaemon3.svg
+[commits-shield]: https://img.shields.io/github/commit-activity/y/hassio-addons/addon-ide.svg
