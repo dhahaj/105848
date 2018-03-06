@@ -1,0 +1,9 @@
+Change Value of Parameter Value in Part D1 Old=Diode 1N5400 New=BAS20
+Change Value of Parameter Value in Part D2 Old=Diode 1N5400 New=BAS20
+Change Component Parameter Description in D4 Old=1N4002 New=Diode, SMD
+Change Component Parameter Description in D6 Old=1N4002 New=Diode, SMD
+Change Component Parameter Description in D7 Old=1N4002 New=Diode, SMD
+Change Component Parameter Description in D8 Old=1N4002 New=Diode, SMD
+Change Component Parameter Description in D9 Old=BAS20 New=Diode, SMD
+Change Value of Parameter Value in Part D10 Old=Diode 1N5400 New=BAS20
+Change Value of Parameter Value in Part VR1 Old=LM317 New=LM317DCYR

@@ -1,0 +1,29 @@
+Change Component Description : Designator=D4 Old Description=1N4002 New Description=Diode, SMD
+Change Component Description : Designator=D6 Old Description=1N4002 New Description=Diode, SMD
+Change Component Description : Designator=D7 Old Description=1N4002 New Description=Diode, SMD
+Change Component Description : Designator=D8 Old Description=1N4002 New Description=Diode, SMD
+Change Component Description : Designator=D9 Old Description=BAS20 New Description=Diode, SMD
+Change component parameters: Designator = "D1"; Footprint = "SOT-23_M"; UniqueID = "\AJNPKHUB"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "B5819W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "BAS20"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2"; Footprint = "SOT-23_M"; UniqueID = "\LMTKLEYQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "B5819W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "BAS20"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D10"; Footprint = "SOT-23_M"; UniqueID = "\YJRRAGQI"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "B5819W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "BAS20"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VR1"; Footprint = "SOT223_M"; UniqueID = "\IBRKQVBS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/lit/ds/symlink/lm317.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "TI"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MPN"; Value = "LM317DCYR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "SOT-23-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SOT-23-4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "LM317DCYR"; VariantName = "[No Variations]"

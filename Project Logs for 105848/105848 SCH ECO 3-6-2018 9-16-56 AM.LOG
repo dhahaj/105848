@@ -1,0 +1,14 @@
+Change Value of Parameter PackageDescription in Part D3 Old=DO-214-AA/SMB; 2 C-Bend Leads; Body 5.3 x 3.6 mm, inc. leads (LxW) New=SMB
+Change Value of Parameter Value in Part D9 Old=1N4002 New=BAS20
+Added Parameter PackageDescription=SMB to Part D4
+Added Parameter PackageDescription=SMB to Part D5
+Added Parameter PackageDescription=SMB to Part D6
+Added Parameter PackageDescription=SMB to Part D7
+Added Parameter PackageDescription=SMB to Part D8
+Added Parameter PackageDescription=SO8 to Part IC2
+Added Parameter PackageDescription=SO8 to Part IC2
+Added Parameter PackageDescription=SO-16 to Part IC1
+Added Parameter PackageDescription=SOT-23 to Part D1
+Added Parameter PackageDescription=SOT-23 to Part D2
+Added Parameter PackageDescription=SOT-23 to Part D9
+Added Parameter PackageDescription=SOT-23 to Part D10
