@@ -149,7 +149,7 @@ Configuration7_Item1=CaptionAsName
 Configuration7_Name2=Filter
 Configuration7_Item2=545046300E5446696C74657257726170706572000D46696C7465722E416374697665090F46696C7465722E43726974657269610A04000000000000000000
 Configuration7_Name3=General
-Configuration7_Item3=OpenExported=True|AddToProject=True|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1663|FormHeight=1033|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|ViewType=0
+Configuration7_Item3=OpenExported=False|AddToProject=True|ForceFit=True|NotFitted=False|Database=False|DatabasePriority=False|IncludePCBData=False|IncludeVaultData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|BatchMode=5|FormWidth=1663|FormHeight=1033|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=<none>|ViewType=0
 Configuration7_Name4=GroupOrder
 Configuration7_Item4=Value=True
 Configuration7_Name5=OutputConfigurationParameter1
@@ -157,7 +157,7 @@ Configuration7_Item5=tSTEPView|ExportComponentOptions=0|ExportModelsOption=2|Exp
 Configuration7_Name6=SortOrder
 Configuration7_Item6=Designator=Up
 Configuration7_Name7=VisibleOrder
-Configuration7_Item7=Designator=105|Quantity=41|Value=146|MPN=234|Description=309|Comment=254|Manufacturer=80|PackageReference=80
+Configuration7_Item7=Designator=122|Quantity=47|Value=170|Description=258|Comment=373|PackageDescription=118
 OutputType8=Copy Files
 OutputName8=Copy Files
 OutputCategory8=PostProcess
