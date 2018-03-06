@@ -6,3 +6,4 @@
 [![GitHub Release][releases-shield]][releases]
 
 [releases]: https://github.com/dhahaj/105848/releases
+[releases-shield]: https://img.shields.io/github/release/hassio-addons/addon-appdaemon3.svg
