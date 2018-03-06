@@ -3,4 +3,6 @@
 ### Revision: D4
 ### Date: 3/5/2018
 
-[![GitHub Release][releases-shield]][release]
+[![GitHub Release][releases-shield]][releases]
+
+[releases]: https://github.com/dhahaj/105848/releases
